@@ -24,7 +24,7 @@ export default function Board() {
       nextSquares[i] = '0';
     }
     setSquare(nextSquares);
-    const isNext = isnext;
+    const isNext = isnext
     setIsnext(!isNext);
   }
 
